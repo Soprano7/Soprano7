@@ -33,4 +33,7 @@
   </a>
 </p>
 
+## Моя статистика 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soprano7&show_icons=true&count_private=true)
+
 ![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
