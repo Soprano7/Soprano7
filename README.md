@@ -39,5 +39,6 @@
   </a>
 </p>
 
-
-## ![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
+## Моя статистика
+![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soprano7&layout=compact)
