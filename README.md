@@ -37,8 +37,13 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #61dafb; background-color: #282c34; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
+    React
+  </a>
 </p>
 
 ## Моя статистика
 ![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soprano7&layout=compact)
+## Контакты
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/ErikSopra)
