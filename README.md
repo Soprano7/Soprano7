@@ -19,9 +19,6 @@
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled Components" width="40" height="40"/>
   </a>
-  <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/23671039?s=200&v=4" alt="Vuex" width="40" height="40"/>
-  </a>
   <a href="https://pinia.esm.dev/" target="_blank" rel="noreferrer">
     <img src="https://pinia.esm.dev/logo.svg" alt="Pinia" width="40" height="40"/>
   </a>
