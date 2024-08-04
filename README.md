@@ -4,7 +4,7 @@
 
 ## Мой стек 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
