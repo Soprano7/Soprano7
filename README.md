@@ -22,6 +22,16 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
- 
+  <a href="https://router.vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/23232385?s=200&v=4" alt="Vue Router" width="40" height="40"/>
+  </a>
+  <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/23671039?s=200&v=4" alt="Vuex" width="40" height="40"/>
+  </a>
+  <a href="https://pinia.esm.dev/" target="_blank" rel="noreferrer">
+    <img src="https://pinia.esm.dev/logo.svg" alt="Pinia" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
 </p>
-
