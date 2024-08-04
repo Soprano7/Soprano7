@@ -37,9 +37,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #61dafb; background-color: #282c34; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-    React
-  </a>
+  https://camo.githubusercontent.com/285ab4821a49901296f0a200dd024547f2a12657673caf8e1b5524041cb1dd0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
 </p>
 
 ## Моя статистика
