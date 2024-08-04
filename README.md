@@ -3,41 +3,44 @@
 Я  Эрик ( на аватарке не я ) , фронтенд разработчик. Моя основная специализация — разработка на JavaScript, React и Vue.js. Постоянно улучшаю свою квалификацию, сейчас развиваюсь в сторону ReactNative и мобильной разработки.
 
 ## Мой стек 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 0 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   </a>
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
   </a>
-  <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled Components" width="40" height="40"/>
   </a>
-  <a href="https://pinia.esm.dev/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://pinia.esm.dev/" target="_blank" rel="noreferrer">
     <img src="https://pinia.esm.dev/logo.svg" alt="Pinia" width="40" height="40"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
-</p>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  </a>
+</div>
 
 
 ## ![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
