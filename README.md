@@ -16,8 +16,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 ## Моя статистика
-![Snake animation](https://github.com/Soprano7/Soprano7/blob/output/github-contribution-grid-snake.svg)
-![Codewars](https://www.codewars.com/users/SopraDRAKSAD/badges/large)
+![Soprano 7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soprano7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soprano7&layout=compact)
 ## Контакты
 <a href="https://t.me/ErikSopra" target="_blank" rel="noreferrer">
